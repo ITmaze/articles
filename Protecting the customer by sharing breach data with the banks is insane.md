@@ -1,4 +1,4 @@
-#Protecting the customer by sharing breach data with the banks is insane!
+# Protecting the customer by sharing breach data with the banks is insane!
 
 The Prime Minister Anthony Albanese said on Brisbane Radio 4BC in response to the recent data breach at Optus:
 
